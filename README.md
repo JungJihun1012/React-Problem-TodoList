@@ -17,4 +17,4 @@ Todo List를 구현하는 것이다.
 
 ## 예시 영상
 
-![Vite + React - Chrome 2024-07-09 23-53-37](https://github.com/JungJihun1012/React-Problem-TodoList/assets/134596552/7d2f3283-ed2d-444c-ae3e-9319f2b2b72c)
+![Vite + React - Chrome 2024-07-09 23-53-37](https://github.com/JungJihun1012/React-Problem-TodoList/assets/134596552/7d2f3283-ed2d-444c-ae3e-9319f2b2b72c.mov)
